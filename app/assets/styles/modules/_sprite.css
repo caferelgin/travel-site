@@ -1,6 +1,7 @@
 /* Do not edit modules/_sprite directly as it is generated automatically by Gulp. Instead edit gulp/templates/sprite.css */
     .icon{
         background-image: url('/assets/images/sprites/sprite-69f19c2e.svg');
+        background-repeat: no-repeat;
     }
     .icon--clear-view-escapes{
         width: 142.4px;
